@@ -1,0 +1,4 @@
+# This files has to be used with practicalNLPTools opensource library
+
+# tools.py : which needs some change in practicalNLP tools has been modified here
+# simpleSentenceSplitter.py: has been developed to split sentences
